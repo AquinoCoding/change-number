@@ -6,4 +6,4 @@ Independe do local em que o paramente estiver na string URL será encontrada e d
 Número para troca o SCRIPT está totalmente feito para meu projeto, porém pode ser adptado facilmente
 
 
-created by Lucas Aquino / Gabriel Lopes
+Created by Lucas Aquino / Gabriel Lopes
